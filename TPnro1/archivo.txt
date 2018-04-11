@@ -1,0 +1,5 @@
+12345678,Pedro Gonzalez,M,8,1,92.5
+23456789,Jimena Perez,F,8,9,92.5
+23456789,Jimena Perez,F,8,6,92.5
+23456789,Jimena Perez,F,3,5,92.5
+23456789,Jimena Perez,F,4,1,92.5
